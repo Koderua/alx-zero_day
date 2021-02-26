@@ -1,1 +1,1 @@
-Git Tasks for ALX SWE cohort
+Git Tasks - ALX SWE cohort
