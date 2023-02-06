@@ -1,1 +1,1 @@
-Not my first readme :)
+Learning git in alx
